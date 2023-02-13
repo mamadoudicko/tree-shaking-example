@@ -1,0 +1,13 @@
+{
+  "name": "tree-shaking",
+  "version": "1.0.0",
+  "author": "mamadoudicko",
+  "license": "ISC",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
