@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("sum of 14 and 2 is 16")})();
