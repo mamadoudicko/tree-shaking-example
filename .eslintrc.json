@@ -1,0 +1,12 @@
+{
+  "env": {
+    "es2021": true
+  },
+  "plugins": ["import"],
+  "rules": {
+    "import/no-commonjs": "error"
+  },
+  "parserOptions": {
+    "sourceType": "module"
+  }
+}
