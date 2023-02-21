@@ -2,19 +2,19 @@
 
 ## Building and running on localhost
 
-First install dependencies:
+Install dependencies:
 
 ```sh
 pnpm install
 ```
 
-## To create a production build (dist folder):
+Create a production build (dist folder):
 
 ```sh
 pnpm run build-prod
 ```
 
-## Running
+Run
 
 ```sh
 node dist/bundle.js
