@@ -1,6 +1,6 @@
 # tree-shaking
 
-Related post `https://twitter.com/mamadoudicko_/status/1627713326657556480?s=20`
+Related post https://twitter.com/mamadoudicko_/status/1627713326657556480?s=20
 
 ## Building and running on localhost
 
